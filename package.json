@@ -1,0 +1,25 @@
+
+{
+  "name": "sqlite2better",
+  "version": "0.0.1",
+  "description": "support use node-sqlite3 api for better-sqlite3",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "better-sqlite3",
+    "node-sqlite3",
+    "sqlite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smildlzj/sqlite2better"
+  },
+  "author": "luzhujun",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^4.0.3",
+  },
+  "devDependencies": {
+  }
+}
